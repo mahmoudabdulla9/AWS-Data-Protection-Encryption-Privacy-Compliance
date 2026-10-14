@@ -12,7 +12,7 @@ Digital Egypt Pioneers Initiative (DEPI) - Graduation Project (Project 3)
 ---
 
 ## 🚀 Project Overview
-A company has critical data stored on AWS and wants to protect it from unauthorized access, encrypt it, detect sensitive data, and monitor security. We will build a practical model demonstrating how to achieve this using AWS services.
+An enterprise-grade implementation focusing on protecting cloud data across its complete lifecycle on AWS, enforcing rigorous encryption standards, managing cryptographic keys, and achieving strict compliance with global privacy regulations.
 
 ## 🛠️ Architecture & Technologies
 * **AWS Services:** Amazon S3, AWS KMS (Key Management Service), AWS ACM (Certificate Manager), AWS Secrets Manager, Amazon Macie, AWS CloudTrail, IAM.
